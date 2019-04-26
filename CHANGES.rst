@@ -5,6 +5,10 @@ Changelog
 ------------------
 
 - Add version plone.app.dexterity pinning in Plone 4 buildout versions in addon template
+  [MrTango]
+
+- Improve view page template
+  [MrTango]
 
 
 4.0.4 (2019-04-14)
