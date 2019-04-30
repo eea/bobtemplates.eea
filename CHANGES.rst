@@ -4,6 +4,9 @@ Changelog
 4.0.5 (unreleased)
 ------------------
 
+- Update theme_barceloneta with plonetheme.barceloneta 2.1.3 and cleanup structure
+  [agitator]
+
 - ReST fomatting and fix typo in README.rst
 
 
