@@ -21,23 +21,12 @@ setup(
         "Environment :: Web Environment",
         "Framework :: Plone",
         "Framework :: Plone :: Addon",
-{{% if not plone.is_plone5 %}}
-        "Framework :: Plone :: 4.3",
-{{% endif %}}
-{{% if plone.is_plone5 and not plone.is_plone51 and not plone.is_plone52 %}}
-        "Framework :: Plone :: 5.0",
-{{% endif %}}
-{{% if plone.is_plone51 %}}
-        "Framework :: Plone :: 5.1",
-{{% endif %}}
-{{% if plone.is_plone52 %}}
         "Framework :: Plone :: 5.2",
-{{% endif %}}
+        "Framework :: Plone :: 6.0",
         "Programming Language :: Python",
-        "Programming Language :: Python :: 2.7",
-{{% if plone.is_plone52 %}}
+        "Programming Language :: Python :: 3.7",
         "Programming Language :: Python :: 3.8",
-{{% endif %}}
+        "Programming Language :: Python :: 3.9",
         "Operating System :: OS Independent",
         "License :: OSI Approved :: GNU General Public License v2 (GPLv2)",
     ],

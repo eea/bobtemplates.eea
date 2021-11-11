@@ -1,6 +1,16 @@
 Changelog
 =========
 
+4.0.8 (2021-11-11)
+------------------
+- Change: Upgrade to Plone 6
+  [avoinea]
+
+4.0.7 (2021-04-14)
+------------------
+- Bugfix: Fix Jenkinsfile and long_description_content_type
+  [avoinea]
+
 4.0.6 (2021-04-03)
 ------------------
 - Change: Disable WWW and KGS tests in Jenkinsfile by default to be able to release the egg
