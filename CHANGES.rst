@@ -1,6 +1,18 @@
 Changelog
 =========
 
+
+4.1.0 (2025-11-21)
+------------------
+- Change: Upgrade to Plone 6.1.3
+  [avoinea]
+- Change: Remove buildout, tox and travis files
+  [avoinea]
+- Change: Update classifiers in setup.py
+  [avoinea]
+- Change: Update Jenkinsfile to use ruff for linting and run tests in Python 3 / Plone 6
+  [avoinea]
+
 4.0.8 (2021-11-11)
 ------------------
 - Change: Upgrade to Plone 6

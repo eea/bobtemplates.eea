@@ -20,20 +20,11 @@ Main features
 2.
 3.
 
+
 Install
 =======
 
-* Add {{{ package.dottedname }}} to your eggs section in your buildout and
-  re-run buildout::
-
-    [buildout]
-    eggs +=
-      {{{ package.dottedname }}}
-
-* You can download a sample buildout from:
-
-  - https://github.com/eea/{{{ package.dottedname }}}/tree/master/buildouts/plone4
-  - https://github.com/eea/{{{ package.dottedname }}}/tree/master/buildouts/plone5
+    $ pip install {{{ package.dottedname }}}
 
 * Or via docker::
 
@@ -42,18 +33,10 @@ Install
 * Install *{{{ package.dottedname }}}* within Site Setup > Add-ons
 
 
-Buildout installation
-=====================
-
-- `Plone 4+ <https://github.com/eea/{{{ package.dottedname }}}/tree/master/buildouts/plone4>`_
-- `Plone 5+ <https://github.com/eea/{{{ package.dottedname }}}/tree/master/buildouts/plone5>`_
-
-
 Source code
 ===========
 
-- `Plone 4+ on github <https://github.com/eea/{{{ package.dottedname }}}>`_
-- `Plone 5+ on github <https://github.com/eea/{{{ package.dottedname }}}>`_
+- `Plone 6 on github <https://github.com/eea/{{{ package.dottedname }}}>`_
 
 
 Eggs repository
@@ -65,7 +48,7 @@ Eggs repository
 
 Plone versions
 ==============
-It has been developed and tested for Plone 4 and 5. See buildouts section above.
+It has been developed and tested for Plone 6. See section above.
 
 
 How to contribute
