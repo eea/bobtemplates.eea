@@ -1,6 +1,10 @@
 Changelog
 =========
 
+4.1.1 (2025-11-21)
+------------------
+- Bugfix: Remove python requirements from setup.py
+  [avoinea]
 
 4.1.0 (2025-11-21)
 ------------------
