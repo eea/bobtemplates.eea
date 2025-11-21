@@ -1,6 +1,11 @@
 Changelog
 =========
 
+4.1.2 (2025-11-21)
+------------------
+- Change: Defaults to Plone 6.1 and Python 3.12
+  [avoinea]
+
 4.1.1 (2025-11-21)
 ------------------
 - Bugfix: Remove python requirements from setup.py
